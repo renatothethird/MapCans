@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169731715043",
+    "firebase_url": "https://mapcans-825b5.firebaseio.com",
+    "project_id": "mapcans-825b5",
+    "storage_bucket": "mapcans-825b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169731715043:android:96263a393bf4688b",
+        "android_client_info": {
+          "package_name": "com.example.masterpeps.mapcans2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169731715043-kfqbt509qg7ntftoh7ip5g4847sa0i13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.masterpeps.mapcans2",
+            "certificate_hash": "9bfda07d35a54c27baa673f60d9a69f0bc674f58"
+          }
+        },
+        {
+          "client_id": "169731715043-59vato6eg2vourf3o9lpuk8vooj8kjn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMqsSDuQ1HQzP64xN9a8c_H1OaDUHsFNI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169731715043-59vato6eg2vourf3o9lpuk8vooj8kjn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
